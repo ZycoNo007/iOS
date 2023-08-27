@@ -16,11 +16,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+- GIF created with Mac screen capture and transfer the video to GIF by EZGIF
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Mac screen capture and transfer the video to GIF by EZGIF
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -29,9 +29,10 @@ GIF created with Mac screen capture and transfer the video to GIF by EZGIF
 ## App Brainstorming (Step 4)
 
 ### Q1: Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
-/**Example App: Instagram**/
+**Example App: Instagram**
   - Changing the background color of the messages screen
   - Deleting old messages
+
 1. Instagram
     Features: Browse friend stories, share interesting post and resources, change different selfie themes
 2. Instacart
